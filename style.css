@@ -1,0 +1,18 @@
+/*
+Theme Name: Blog Programacion
+
+Author: Maximiliano Coceres
+Author URI: https://maxicoceres.netlify.app
+Description: Nuestro tema fue realizado con cariño
+Version: 1.0
+Text Domain: blogprogramacion
+Tags: black, blog, simple, aside
+*/
+
+
+.temario{
+    background: url(./images/fondocurvado.jpg);
+    background-size: cover;
+    background-position: center;
+    height: 400px;
+}
